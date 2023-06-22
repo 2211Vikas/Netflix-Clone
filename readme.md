@@ -62,23 +62,23 @@ To view the website, you can open the index.html file in your browser. Alternati
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=300px src="./images/sst1.jpg" alt="Project logo"></a>
+ <img width=100% height=100% src="./images/sst1.jpg" alt="Project logo"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=300px src="./images/sst2.jpg" alt="Project logo"></a>
+ <img width=100% height=100% src="./images/sst2.jpg" alt="Project logo"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=300px src="./images/sst3.jpg" alt="Project logo"></a>
+ <img width=100% height=100% src="./images/sst3.jpg" alt="Project logo"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=300px src="./images/sst4.jpg" alt="Project logo"></a>
+ <img width=100% height=100% src="./images/sst4.jpg" alt="Project logo"></a>
 </p>
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=300px src="./images/sst5.jpg" alt="Project logo"></a>
+ <img width=100% height=100% src="./images/sst5.jpg" alt="Project logo"></a>
 </p>
 
 
